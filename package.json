@@ -1,0 +1,26 @@
+{
+  "name": "modo-noturno",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/L0U1Z/Modo-Noturno#readme",
+  "bugs": {
+    "url": "https://github.com/L0U1Z/Modo-Noturno/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L0U1Z/Modo-Noturno.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.4",
+    "vite": "^8.3.5"
+  }
+}
